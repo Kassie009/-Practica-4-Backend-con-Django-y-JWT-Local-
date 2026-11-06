@@ -16,3 +16,11 @@ __pycache__/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Frontend (React / Node)
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+**/.env
